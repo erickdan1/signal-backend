@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-06-02T02:45:34.685794+00:00",
+  "eventos": [
+    {
+      "id": "45883",
+      "titulo": "Fed decision in January?",
+      "categoria": "FOMC",
+      "ativo": false
+    },
+    {
+      "id": "35090",
+      "titulo": "Fed decision in December?",
+      "categoria": "FOMC",
+      "ativo": false
+    },
+    {
+      "id": "75478",
+      "titulo": "Fed decision in April?",
+      "categoria": "FOMC",
+      "ativo": false
+    },
+    {
+      "id": "67284",
+      "titulo": "Fed decision in March?",
+      "categoria": "FOMC",
+      "ativo": false
+    },
+    {
+      "id": "27824",
+      "titulo": "Fed decision in October?",
+      "categoria": "FOMC",
+      "ativo": false
+    },
+    {
+      "id": "101772",
+      "titulo": "Fed Decision in June?",
+      "categoria": "FOMC",
+      "ativo": true
+    },
+    {
+      "id": "51456",
+      "titulo": "How many Fed rate cuts in 2026?",
+      "categoria": "FOMC",
+      "ativo": true
+    },
+    {
+      "id": "287395",
+      "titulo": "Fed Decision in July?",
+      "categoria": "FOMC",
+      "ativo": true
+    },
+    {
+      "id": "16096",
+      "titulo": "What price will Bitcoin hit in 2025?",
+      "categoria": "Cripto",
+      "ativo": false
+    },
+    {
+      "id": "194107",
+      "titulo": "What price will Bitcoin hit in February?",
+      "categoria": "Cripto",
+      "ativo": false
+    },
+    {
+      "id": "137338",
+      "titulo": "What price will Bitcoin hit in January?",
+      "categoria": "Cripto",
+      "ativo": false
+    },
+    {
+      "id": "238474",
+      "titulo": "What price will Bitcoin hit in March?",
+      "categoria": "Cripto",
+      "ativo": false
+    },
+    {
+      "id": "16097",
+      "titulo": "What price will Ethereum hit in 2025?",
+      "categoria": "Cripto",
+      "ativo": false
+    },
+    {
+      "id": "16167",
+      "titulo": "MicroStrategy sells any Bitcoin by ___ ?",
+      "categoria": "Cripto",
+      "ativo": true
+    },
+    {
+      "id": "89502",
+      "titulo": "What price will Bitcoin hit in 2026?",
+      "categoria": "Cripto",
+      "ativo": true
+    },
+    {
+      "id": "36173",
+      "titulo": "When will Bitcoin hit $150k?",
+      "categoria": "Cripto",
+      "ativo": true
+    }
+  ],
+  "por_categoria": {
+    "FOMC": {
+      "fechados": 5,
+      "ativos": 3,
+      "total": 8
+    },
+    "Inflação": {
+      "fechados": 0,
+      "ativos": 0,
+      "total": 0
+    },
+    "Crescimento": {
+      "fechados": 0,
+      "ativos": 0,
+      "total": 0
+    },
+    "Cripto": {
+      "fechados": 5,
+      "ativos": 3,
+      "total": 8
+    },
+    "Comércio": {
+      "fechados": 0,
+      "ativos": 0,
+      "total": 0
+    }
+  }
+}
